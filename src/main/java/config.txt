@@ -1,0 +1,4 @@
+mobile=9663166446
+type=COVISHIELD
+dose=1
+district_id=294
